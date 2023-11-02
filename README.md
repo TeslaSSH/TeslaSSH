@@ -14,10 +14,10 @@ I'm a software engineer and cloud engineer with a passion for building innovativ
 
 ## 📚 Projects
 
-- [Tesla UDP Custom ](https://github.com/username/project1):
+- [Tesla UDP Custom ](https://github.com/TeslaSSH/Tesla_UDP_custom-):
   
-  Coming Soon...
-  
+  This script installs UDP CUSTOM on Ubuntu 18|20|22|23
+  And Debian 9|10
 - [Tesla UDP Hysteria](https://github.com/username/project2):
   
   Coming Soon...
